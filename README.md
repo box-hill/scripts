@@ -1,1 +1,2 @@
 # scripts
+## for windows
